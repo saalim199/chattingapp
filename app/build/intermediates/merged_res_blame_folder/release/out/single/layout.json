@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/item_container_recent_conversion.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/item_container_recent_conversion.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_chat.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_users.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_users.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_sign_in.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_sign_up.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_main.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/item_container_sent_message.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/item_container_sent_message.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/item_container_user.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/item_container_user.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/activity_splash_screen.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.saalimco.chattingapp-mergeReleaseResources-37:/layout/item_container_recieved_message.xml",
+        "source": "com.saalimco.chattingapp-main-39:/layout/item_container_recieved_message.xml"
+    }
+]
